@@ -21,7 +21,7 @@ html {
   }
   
   body {
-    width: 600px;
+    width: 100%;
     margin: 0 auto;
     background-color: #FF9500;
     padding: 0 20px 20px 20px;
@@ -38,5 +38,10 @@ html {
   img {
     display: block;
     margin: 0 auto;
+  }
+  
+  button {
+    margin:auto;
+    display:block;
   }
   
