@@ -9,3 +9,7 @@ let myButton = document.querySelector('button');
 myButton.onclick = function() {
   Android.toast("Webpage is saying hi!!");
 }
+
+function messageMe(message){
+  document.getElementById("demo").innerHTML = message;
+}

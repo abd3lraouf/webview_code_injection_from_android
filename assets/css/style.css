@@ -9,10 +9,16 @@ html {
     text-align: center;
   }
   
+  h2 {
+    font-size: 20px;
+    text-align: center;
+  }
+
   p, li {
     font-size: 16px;
     line-height: 2;
     letter-spacing: 1px;
+    text-align: center;
   }
   
   
